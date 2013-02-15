@@ -1,0 +1,6 @@
+Crear un archivo llamado .gitignore  en el directorio raíz de tu proyecto. Los archivos que incluyas aquí serán ignorados en todos los subdirectorios de tu proyecto, a menos que algún subdirectorio incluya su propio .gitignore.
+
+Por ejemplo para ignorar archivos temporales y ocultos:
+
+*~
+.~*
